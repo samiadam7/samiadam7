@@ -2,7 +2,7 @@
 
 My name is Sami and I am a senior at the University of Virginia majoring in Statistics and Business planning on completing a MS in Statistics. I am interested in machine learning applications, especially in sports, health, and energy!
 
-- 🔭 I’m currently working on a machine learning system using my health data (thanks to oura's api)!
+- 🔭 I’m currently working on a machine learning system using my health data (thanks to [oura ring's](https://ouraring.com/) api)!
   
 - 🌱 I’m currently reading [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen and [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis.
 
